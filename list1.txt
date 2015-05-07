@@ -1,7 +1,3 @@
 andi r djunaedi
 herwidodo
 superman
-fitur-1 1
-fitur-1 2
-fitur-1 3
-
